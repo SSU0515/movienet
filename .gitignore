@@ -24,3 +24,11 @@ yarn-error.log*
 
 #  API_KEY
 .env
+
+# Firebase 관련 디렉터리 무시
+.firebase/
+functions/node_modules/
+
+
+# Node.js 관련 디렉터리 무시
+node_modules/
